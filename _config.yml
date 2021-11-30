@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'CodeChao992's Blog'
+title: 'CodeChao992//'s Blog'
 description: '很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: 'CodeChao992's Blog, codechao992, 编程, 学习'
+keyword: 'Blog, CodeChao992, 编程, 学习'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
